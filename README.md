@@ -1,29 +1,40 @@
-# Sistema de Cadastro de Produtos
+# 🛒 Sistema de Cadastro de Produtos
 
-Projeto desenvolvido em Java com o objetivo de simular um sistema simples de cadastro.
+Projeto desenvolvido em **Java** com o objetivo de simular um sistema simples de cadastro de produtos via console.
 
-## Sobre o Projerto
+Este projeto foi criado para praticar conceitos fundamentais de **Programação Orientada a Objetos (POO)** e manipulação de listas em Java.
 
-Esse sistema permite: 
-1-Cadastrar Produtos
-2-Listar Produtos cadastrados
-3-Buscar produto por ID
-4-Remover produto
-5-Menu interativo no console
+---
 
-O projeto foi desenvolvido aplicando conceitos de Programação Orientada a Objetos (POO).
+## 📌 Funcionalidades
 
--Tecnologias utilizadas
+O sistema permite:
 
-.Java
-.Programação orientada a Objetoas
-.ArrayList
-.Scanner
-.Estrutura de repetição (do-while)
-.Estrutura de decisão (Switch-case)
+✅ Cadastrar novos produtos  
+✅ Listar todos os produtos cadastrados  
+✅ Buscar produto por ID  
+✅ Remover produto  
+✅ Menu interativo no console  
 
-## Estrutura do Projeto: 
-src/
-    Main.java
-    Sistema.java
-    Produto.java
+---
+
+## 🧠 Conceitos Aplicados
+
+- Programação Orientada a Objetos (POO)
+- Encapsulamento
+- Manipulação de listas com `ArrayList`
+- Entrada de dados com `Scanner`
+- Estrutura de repetição (`do-while`)
+- Estrutura de decisão (`switch-case`)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Java
+- JDK 17+ (ou a versão que você estiver usando)
+
+---
+
+## 📂 Estrutura do Projeto
+
